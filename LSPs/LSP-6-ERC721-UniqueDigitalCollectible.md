@@ -149,7 +149,7 @@ value: '0x7a21a5c1'
 
 ## Implementation
 
-A implementation can be found in the [fanzone-media/standard-implementations](https://github.com/fanzone-media/standards-implementations/tree/master/contracts/NFT/LSP6UniqueDigitalCollectible.sol);
+A implementation can be found in the [fanzone-media/standard-implementations](https://github.com/fanzone-media/standards-implementations/blob/master/contracts/UniqueDigitalCollectible/LSP6UniqueDigitalCollectible.sol);
 The below defines the JSON interface of the `LSP6UniqueDigitalCollectible`.
 
 ERC725Y JSON Schema `LSP6UniqueDigitalCollectible`:
